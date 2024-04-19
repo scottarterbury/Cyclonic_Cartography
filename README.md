@@ -8,7 +8,7 @@ Due to the large number of tornadoes that happen in the USA, we will concentrate
 One thing we notice from the data is that the biggest concentration of more significant tornadoes seem to occur in the southern states as opposed to the center of the US that most consider ‘Tornado Alley.’
 
 ## Instructions
-1. Go to <a href="https://brupps.github.io/project_3/">Cyclonic Cartography</a>
+1. Go to <a href="https://scottarterbury.github.io/Cyclonic_Cartography/">Cyclonic Cartography</a>
 2. Click on a category to see the visualizations
 3. To see the presentation slides click <a href="https://github.com/brupps/project_3/blob/main/CyclonicCartography.pdf">Presentation Slides</a>
 
@@ -59,7 +59,7 @@ Contains all the javascript files the team used to create their visualizations a
 ### HTML files
 
 - **index.html**
-[Landing page](https://brupps.github.io/project_3/)
+[Landing page](https://scottarterbury.github.io/Cyclonic_Cartography/)
 
 - **charts2.html**
 ![a screenshot of the chartsJS visualization](https://github.com/brupps/project_3/blob/main/images/charts2image.PNG)
